@@ -4,7 +4,7 @@ Expressing through human facial emotions is still the most fundamental way of co
 In this project, we have identified faces using haarcascade algorithm for face detection and have implemented a deep convolutional neural networks model for facial expression recognition (FER) training to achieve greater accuracy.
 
 ## Snapshots of Working Project
-![download](https://github.com/ArchiAgrawal1369/Thespis.AI/assets/89705122/90e8b45d-e71a-431a-a578-de8d15efeab7)
-![download (1)](https://github.com/ArchiAgrawal1369/Thespis.AI/assets/89705122/ec6f2801-240a-4b0f-b3ec-4204c0328ad6)
+![happy](https://github.com/ArchiAgrawal1369/Thespis.AI/assets/89705122/4230ceb5-3d16-41ec-b6ef-ff39dea7622d)
+![neutral](https://github.com/ArchiAgrawal1369/Thespis.AI/assets/89705122/236a878b-120a-4db1-b1a2-031690b11ba2)
 
-##
+
